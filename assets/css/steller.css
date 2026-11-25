@@ -11644,3 +11644,28 @@ pre {
 .section.bg-gray {
   background: white;
 }
+
+.course-link {
+    display: inline-block;
+    margin-top: 10px;
+    color: #695aa6;
+    font-weight: 600;
+}
+
+.course-link:hover {
+    color: #51427f;
+    text-decoration: underline;
+}
+
+.seal-img {
+    max-width: 180px;
+    width: 100%;
+    height: auto;
+    margin: 15px auto;
+    display: block;
+}
+
+.seal-card {
+    padding: 25px;
+    height: 100%;
+}
